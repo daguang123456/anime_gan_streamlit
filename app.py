@@ -141,7 +141,7 @@ fake = model(fixed_noise)
 
 fig1 = plt.figure(figsize=(14,8))
 
-fig1.suptitle("randomly generated digits")
+fig1.suptitle("随机生成的动漫脸")
 # data = fakework.detach().cpu().swapaxes(0, 1)
 # data = data.swapaxes(1, 2)
 # # data = fake.detach().cpu()
