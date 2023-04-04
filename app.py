@@ -7,8 +7,8 @@ import torchvision.utils as vutils
 import numpy as np
 import random
 
-st.title("使用 GAN 随机生成的图像")
-st.write("教程"" [link](https://www.youtube.com/watch?v=OXWvrRLzEaU&t=45s)")
+st.title("使用 GAN 随机生成动漫脸的图像")
+st.write("代码教程"" [link](https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/GANs)")
 
 
 # Generator Code
