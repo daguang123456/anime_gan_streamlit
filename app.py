@@ -87,7 +87,7 @@ model = Generator(ngpu).to(device)
 
 
 # Load the trained model
-model = torch.load("anime_gan_generator100input.pt",map_location=torch.device('cpu') )
+model = torch.load("anime_gan_generator100input1.pt",map_location=torch.device('cpu') )
 
 
 pp1=st.slider("p1",-5.01,5.00)
